@@ -282,7 +282,7 @@ export default function LandingPage() {
         <div className="relative container mx-auto px-4 py-8">
           <div className="text-center">
             <p className="text-muted-foreground opacity-80 transition-opacity duration-300 hover:opacity-100">
-              © 2024 AdFlow Pro. All rights reserved.
+              © 2025 AdFlow Pro. All rights reserved.
             </p>
           </div>
         </div>
