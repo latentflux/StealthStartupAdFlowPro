@@ -11,7 +11,7 @@ const nextConfig: NextConfig = {
   },
   
   // Base path for GitHub Pages
-  basePath: process.env.NODE_ENV === 'production' ? '/adflow-pro-developer-credits' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/StealthStartupAdFlowPro' : '',
   
   // Headers configuration
   async headers() {
